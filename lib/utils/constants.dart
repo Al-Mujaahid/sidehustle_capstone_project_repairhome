@@ -1,0 +1,17 @@
+const appName = 'Repair Home';
+const google = 'assets/images/google.png';
+const facebook = 'assets/images/facebook.png';
+const twitter = 'assets/images/twitter.png';
+const logo_2 = 'assets/images/logo_2.png';
+const cart = 'assets/images/cart.png';
+const suffix = 'assets/images/suffix.png';
+const attract = 'assets/images/attract.png';
+const set = 'assets/images/sets_prev_ui.png';
+const microwave = 'assets/images/microwave.png';
+const tv = 'assets/images/tv.png';
+const tvSet = 'assets/images/tv_set.png';
+const fixMicrowave = 'assets/images/fix_microwave.png';
+const chat = 'assets/images/chat.png';
+const fridge = 'assets/images/fridge.png';
+const computer = 'assets/images/computer.png';
+const washer = 'assets/images/washer.png';
