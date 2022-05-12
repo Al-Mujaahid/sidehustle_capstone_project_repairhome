@@ -13,7 +13,7 @@ Mobile App Development
 Opadeji Abdullah Ololade (SH-IT-0005487)
 
 # Member(s) that participated
-NONE, I DID IT ALONE
+No response from team members. Did it alone after series of reminder with no response
 
 # My portfolio
 https://matech-portfolio.herokuapp.com
